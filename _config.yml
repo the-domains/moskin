@@ -1,0 +1,28 @@
+name: Moskin
+favicon: null
+layout_spectrum: 0.5709421774372458
+typography_spectrum: 0.9377713180147111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8366934291552752
+  lightness: 0.00977917923592031
+  saturation: 0.6805650775786489
+  rhythmicContrast: 0.8253752994351089
+purpose: []
